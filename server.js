@@ -27,7 +27,7 @@ let signals = {
 };
 
 // Admin password (change this!)
-const ADMIN_PASSWORD = 'your-secure-password-123';
+const ADMIN_PASSWORD = 'Nish23!@#';
 
 // Public endpoint - Get current signals (no authentication needed)
 app.get('/api/signals', (req, res) => {
